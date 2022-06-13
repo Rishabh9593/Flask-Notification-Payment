@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-12 text-center">
+        <h1>Welcome</h1>
+
+<!-----       
+        <form action="{{url_for('login')}}" method="POST">
+            <input type="radio" id="Student" name="issuers" value="Student">
+            <label for="Student">Student</label><br>
+        </form>
+-->
+ 
+
+  
+        {% if session['username'] %}
+        <h3>Lets get started</h3>
+        {% else %}
+        <p>Already registered? <a href="{{ url_for('login') }}">Login</a></p>
+        {% endif %}
+    </div>    
+</div>
+{% endblock %}

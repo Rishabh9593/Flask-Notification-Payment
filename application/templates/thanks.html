@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+   
+{% block content %}
+
+<form action="{{url_for('index1')}}">
+    <h2>Thanks, you payed <strong>Rs. {{ amount }}</strong>!</h2>
+<button>OK</button>
+
+{% endblock %}

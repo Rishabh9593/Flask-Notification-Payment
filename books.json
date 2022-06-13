@@ -1,0 +1,4 @@
+[{"BookId":"1","title":"book1", "publication":"publi1", "author":"auth1", "No_of_Copies":5,"Year":"2019"},
+{"BookId":"2","title":"book2", "publication":"publi2", "author":"auth2", "No_of_Copies":5,"Year":"2019"},
+{"BookId":"3","title":"book3", "publication":"publi3", "author":"auth3", "No_of_Copies":5,"Year":"2019"}]
+

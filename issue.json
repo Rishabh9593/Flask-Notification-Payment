@@ -1,0 +1,4 @@
+[{"StuId":"1","BookId":"1","title":"book1", "publication":"publi1", "author":"auth1", "Issue_date":"2020-08-17 09:00:00","Return_date":"2020-08-23 09:00:00.750","Year":"2","branch":"comp","fees":"0"},
+{"StuId":"1","BookId":"2","title":"book2", "publication":"publi2", "author":"auth2", "Issue_date":"2020-08-17 09:00:00","Return_date":"2020-08-23 09:00:00.750","Year":"2","branch":"comp","fees":"0"}
+]
+

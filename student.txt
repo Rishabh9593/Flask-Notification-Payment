@@ -1,0 +1,1 @@
+[{"StuId":"1", "first_name":"Chri", "last_name":"Hur", "email":"christian@uta.com", "password":"abc1234", "Year":"1", "branch":"comp"}]
